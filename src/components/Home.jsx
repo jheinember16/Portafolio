@@ -24,11 +24,10 @@ function Home() {
           />
           ¡Hola!{" "}
         </div>
-        <div className={style.name}>Soy Lourdes López Pepa</div>
+        <div className={style.name}>Soy Jheinember Jimenez Nieto </div>
         <div className={style.dev}>Full Stack Developer</div>
         <div className={style.description}>
-          Full Stack Developer con formación como Diseñadora Gráfica. Con
-          pensamiento creativo, resolución de problemas, trabajo en equipo,
+          Full Stack Developer con pensamiento creativo, resolución de problemas, trabajo en equipo,
           comunicación y autonomía.
         </div>
       </div>
